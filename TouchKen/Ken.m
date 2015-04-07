@@ -5,7 +5,7 @@
 //  Created by Stronger Shen on 2015/1/30.
 //  Copyright (c) 2015年 MobileIT. All rights reserved.
 //
-
+//SammaYang Modify
 #import "Ken.h"
 
 @implementation Ken
