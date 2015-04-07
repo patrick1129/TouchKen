@@ -11,6 +11,7 @@
 
 @class Ken;
 //interface外的實作在viewController.m檔
+//protocol
 @protocol KenDelegate <NSObject>
 
 @optional
